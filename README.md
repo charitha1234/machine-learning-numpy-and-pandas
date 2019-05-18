@@ -1,2 +1,2 @@
-# machine-learning-numpy-and-pandas
-Machine learning demos from scratch
+# Machine Learning From Scratch
+Simple Machine learning and Deep learning Examples from scratch
