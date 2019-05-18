@@ -106,8 +106,9 @@ def main():
         y_new[i][y[i]-1]=1
 
     
-    
-    parameters=gradient_descent(X,y_new,y,0.1,parameters,10000)
+    no_of_iterations=10000
+    alpha=0.1
+    parameters=gradient_descent(X,y_new,y,alpha,parameters,no_of_iterations)
 
     
     
